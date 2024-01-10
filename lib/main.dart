@@ -80,7 +80,11 @@ class _MyHomePageState extends State<MyHomePage> {
           children: [
             Row(
               children: [
+<<<<<<< HEAD
                 Text('Dashboard - Home'),
+=======
+                Text('Dashboard - Login'),
+>>>>>>> login
 		Text('Hello world'),
               ],
             )
