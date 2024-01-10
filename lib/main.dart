@@ -80,7 +80,8 @@ class _MyHomePageState extends State<MyHomePage> {
           children: [
             Row(
               children: [
-                Text('Dashboard')
+                Text('Dashboard'),
+		Text('Hello world'),
               ],
             )
           ],
